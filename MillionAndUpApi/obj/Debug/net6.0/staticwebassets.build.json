@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Vnfp9igRQK5BUXGMIutdMVvWqheyrkx/iLjhizWA1oE=",
+  "Source": "MillionAndUpApi",
+  "BasePath": "_content/MillionAndUpApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
